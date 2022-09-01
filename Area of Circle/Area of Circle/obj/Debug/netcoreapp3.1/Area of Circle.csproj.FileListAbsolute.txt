@@ -1,0 +1,13 @@
+C:\Users\N.D\Desktop\Test4\Area of Circle\Area of Circle\bin\Debug\netcoreapp3.1\Area of Circle.exe
+C:\Users\N.D\Desktop\Test4\Area of Circle\Area of Circle\bin\Debug\netcoreapp3.1\Area of Circle.deps.json
+C:\Users\N.D\Desktop\Test4\Area of Circle\Area of Circle\bin\Debug\netcoreapp3.1\Area of Circle.runtimeconfig.json
+C:\Users\N.D\Desktop\Test4\Area of Circle\Area of Circle\bin\Debug\netcoreapp3.1\Area of Circle.runtimeconfig.dev.json
+C:\Users\N.D\Desktop\Test4\Area of Circle\Area of Circle\bin\Debug\netcoreapp3.1\Area of Circle.dll
+C:\Users\N.D\Desktop\Test4\Area of Circle\Area of Circle\bin\Debug\netcoreapp3.1\Area of Circle.pdb
+C:\Users\N.D\Desktop\Test4\Area of Circle\Area of Circle\obj\Debug\netcoreapp3.1\Area of Circle.csprojAssemblyReference.cache
+C:\Users\N.D\Desktop\Test4\Area of Circle\Area of Circle\obj\Debug\netcoreapp3.1\Area of Circle.AssemblyInfoInputs.cache
+C:\Users\N.D\Desktop\Test4\Area of Circle\Area of Circle\obj\Debug\netcoreapp3.1\Area of Circle.AssemblyInfo.cs
+C:\Users\N.D\Desktop\Test4\Area of Circle\Area of Circle\obj\Debug\netcoreapp3.1\Area of Circle.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\Test4\Area of Circle\Area of Circle\obj\Debug\netcoreapp3.1\Area of Circle.dll
+C:\Users\N.D\Desktop\Test4\Area of Circle\Area of Circle\obj\Debug\netcoreapp3.1\Area of Circle.pdb
+C:\Users\N.D\Desktop\Test4\Area of Circle\Area of Circle\obj\Debug\netcoreapp3.1\Area of Circle.genruntimeconfig.cache
